@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormBilgiYarismasi", "FormBilgiYarismasi.csproj", "{0C21D984-F390-4F98-9EA8-1F8268C13042}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C21D984-F390-4F98-9EA8-1F8268C13042}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C21D984-F390-4F98-9EA8-1F8268C13042}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C21D984-F390-4F98-9EA8-1F8268C13042}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C21D984-F390-4F98-9EA8-1F8268C13042}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13CB272B-E68C-4B9F-8381-F5941FD75D35}
+	EndGlobalSection
+EndGlobal
